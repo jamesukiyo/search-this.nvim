@@ -1,10 +1,12 @@
 # search-this.nvim
-Easily search the web via any provider from Neovim.
+Easily initiate a web search via any provider from Neovim.
 
-Searching is possible with a visual selection or a manual entry from normal mode.
+Search a docs page or any search engine for a visual selection or input.
 
 ## Notes
-Feel free to open issues/PRs if you face any problems or want to add improvements.
+Feel free to open issues/PRs if you face any problems or want to add improvements. 
+
+OS specifics for opening a browser might not be perfect but I tried to cover Windows, Linux and MacOS (I use Windows).
 
 I liked the idea of being able to initiate a web search for docs or a general question on a specific site/search engine from inside Neovim.
 
